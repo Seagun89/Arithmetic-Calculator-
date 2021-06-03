@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "sphinx4-core-5prealpha-20160628.232526-10.jar",
+        "sphinx4-core-5prealpha-20160628.232526-10-javadoc.jar",
+        "sphinx4-core-5prealpha-20160628.232526-10-sources.jar",
+        "sphinx4-data-5prealpha-20160628.232535-10.jar",
+        "sphinx4-data-5prealpha-20160628.232535-10-javadoc.jar",
+        "sphinx4-data-5prealpha-20160628.232535-10-sources.jar",
+        "Sphinx Jar lib/sphinx4-core-5prealpha-20160628.232526-10.jar",
+        "Sphinx Jar lib/sphinx4-core-5prealpha-20160628.232526-10-javadoc.jar",
+        "Sphinx Jar lib/sphinx4-core-5prealpha-20160628.232526-10-sources.jar",
+        "Sphinx Jar lib/sphinx4-data-5prealpha-20160628.232535-10.jar",
+        "Sphinx Jar lib/sphinx4-data-5prealpha-20160628.232535-10-javadoc.jar",
+        "Sphinx Jar lib/sphinx4-data-5prealpha-20160628.232535-10-sources.jar"
+    ]
+}
